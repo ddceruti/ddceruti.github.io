@@ -4,13 +4,15 @@ title: About
 permalink: /about/
 ---
 
-Hi there! Nice to meet you. My name is Amedeo Ceruti. I am a chemical engineer from Barcelona, Spain. I am currently studying at TU Munich, Germany.
+Hi there! Nice to meet you. My name is Amedeo Ceruti. I am a chemical engineer from Barcelona, Spain. I will be publishing blog posts about my current and past research, as well as other unrelated topics which I am interested in.
 
 ### Research interests
 
-My research interests are modeling and optimization of chemical processes with first-principle, data-driven or hybrid approaches. My main goal is to use the knwoledge provided by these tools to optimize and design more sustainable processes of all sorts. Therefore, I am interested in sustainability metrics, programming, mathematical optimization, machine learning models, amongst others. I am currently looking for a PhD-programm in this topic or related ones.
+My research interests are modeling and optimization of chemical processes with first-principle, data-driven or hybrid approaches. My main goal is to use the knwoledge provided by these tools to optimize and design more sustainable processes of all sorts. Therefore, I am interested in sustainability metrics, programming, mathematical optimization, machine learning models, amongst others. I am currently finishing my master's in chemical engineering at TU Munich and looking for a PhD-programm in a topic I am passionate about.
 
-I will be publishing blog posts about my current and past research, as well as other unrelated topics which I am interested in.
+### CV
+
+You can download my CV [here}() or see an embedded version [here]().
 
 ### Hobbies
 
