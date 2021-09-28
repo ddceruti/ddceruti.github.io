@@ -8,15 +8,15 @@ Hi there! Nice to meet you. My name is Amedeo Ceruti. I am a chemical engineer f
 
 ### Research interests
 
-My research interests are modeling and optimization of chemical processes with first-principle, data-driven or hybrid approaches. My main goal is to use the knwoledge provided by these tools to optimize and design more sustainable processes of all sorts. Therefore, I am interested in sustainability metrics, programming, mathematical optimization, machine learning models, amongst others. I am currently finishing my master's in chemical engineering at TU Munich and looking for a PhD-programm in a topic I am passionate about.
+My research interests are modeling and optimization of (chemical process) systems with first-principle, data-driven or hybrid approaches. My main goal is to use the knwoledge provided by these tools to optimize and design more sustainable processes of all sorts while applying a systems engineering perspective. Therefore, I am interested in sustainability metrics, programming, mathematical optimization, machine learning models, amongst others. I am currently completing a 6-month reasearch stay at the SUPERLAB at the ETH Zürich and looking for a PhD-programm in a topic I am passionate about for April 2022.
 
 ### CV
 
-You can download my CV [here](https://ddceruti.github.io/images/cv_ceruti.pdf) or see an embedded version [here](https://ddceruti.github.io/cv/).
+You can download my CV [here](https://ddceruti.github.io/images/20210928_CV.pdf) or see an embedded version [here](https://ddceruti.github.io/cv/).
 
 ### Hobbies
 
-I enjoy playing water polo and reading in my free time. Also, I am always excited to find new museums, libraries and bookshops!
+I enjoy playing water polo and reading in my free time. Also, I am always excited to find new local museums, libraries and bookshops!
 
 ### Contact me
 
