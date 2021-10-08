@@ -1,7 +1,9 @@
+
 ---
 layout: post
 title: Basic concepts of life cycle analysis (LCA)
 ---
+
 # A few notes on LCA
 
 ## LCA: Life Cycle Assessment/Analysis
