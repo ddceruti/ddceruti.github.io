@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: Basic concepts of life cycle analysis (LCA)
