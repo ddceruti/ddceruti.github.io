@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hi there! Nice to meet you. My name is Amedeo Ceruti. I am a chemical engineer from Barcelona, Spain. I post blog posts on this website about my current and past research, as well as other unrelated topics which I am interested in.
+Hi there! Nice to meet you. My name is Amedeo Ceruti. I am a chemical engineer from Barcelona, Spain. I post blog entries about my current and past research, as well as other unrelated topics on this website.
 
 ### Research interests
 
