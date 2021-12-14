@@ -1,4 +1,4 @@
---
+---
 layout: post
 title: Recently published article on Li-ion cell finalization
 ---
