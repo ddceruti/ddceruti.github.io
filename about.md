@@ -12,7 +12,7 @@ My main research interests are modeling and optimization of (chemical process) s
 
 ### CV
 
-You can download my CV [here](https://ddceruti.github.io/images/20210928_CV.pdf) or see an embedded version [here](https://ddceruti.github.io/cv/).
+You can download my CV [here](https://ddceruti.github.io/images/CV_Amedeo_Ceruti.pdf) or see an embedded version [here](https://ddceruti.github.io/cv/).
 
 ### Hobbies
 
