@@ -8,7 +8,7 @@ Hi there! Nice to meet you. My name is Amedeo Ceruti. I am a chemical engineer f
 
 ### Research interests
 
-My research interests are modeling and optimization of (chemical process) systems with first-principle, data-driven or hybrid approaches. My main goal is to use the knwoledge provided by these tools to optimize and design more sustainable processes of all sorts while applying a systems engineering perspective. Therefore, I am interested in sustainability metrics, programming, mathematical optimization, machine learning models, amongst others. I am currently completing a 6-month reasearch stay at the SUPERLAB at the ETH Zürich and looking for a suitable PhD-programmfor me beginning April 2022.
+My research interests are modeling and optimization of (chemical process) systems with first-principle, data-driven or hybrid approaches. My main goal is to use the knwoledge provided by these tools to optimize and design more sustainable processes of all sorts while applying a systems engineering perspective. Therefore, I am interested in sustainability metrics, programming, mathematical optimization, machine learning models, amongst others. I am currently completing a 6-month reasearch stay at the SUPERLAB at the ETH Zürich and looking for a suitable PhD-programme for me beginning April 2022.
 
 ### CV
 
