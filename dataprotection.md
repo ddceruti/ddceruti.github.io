@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /impressum/
+permalink: /privacy/
 title: Privacy Notice / Datenschutz
 ---
 
