@@ -1,15 +1,7 @@
 ---
 layout: post
-title: Basic concepts of life cycle analysis (LCA)
+title: A few Notes on Life Cycle Analysis (LCA)
 ---
-
-## LCA: Life Cycle Assessment/Analysis
-
-[1] Intro from MIT: https://www.youtube.com/watch?v=gpuvUU0Nl4k
-
-[2] Great LCA book:  Hauschild, M. Z., Rosenbaum, R. K., & Olsen, S. I. (2018). *Life cycle assessment* (Vol. 2018). Springer International Publishing, Cham. https://doi.org/10.1007/978-3-319-56475-3.
-
-[3] Wikipedia article (checked with the book above): https://en.wikipedia.org/wiki/Life-cycle_assessment.
 
 ### Definition
 
@@ -165,3 +157,10 @@ Many types available to use: in LCA generally log-normal. Useful to approximate 
    3. Analyze the model outputs
 3. Taylor series expansion (CMLCA)
 
+## References
+
+[1] Intro from MIT: https://www.youtube.com/watch?v=gpuvUU0Nl4k
+
+[2] Great LCA book:  Hauschild, M. Z., Rosenbaum, R. K., & Olsen, S. I. (2018). *Life cycle assessment* (Vol. 2018). Springer International Publishing, Cham. https://doi.org/10.1007/978-3-319-56475-3.
+
+[3] Wikipedia article (checked with the book above): https://en.wikipedia.org/wiki/Life-cycle_assessment.
