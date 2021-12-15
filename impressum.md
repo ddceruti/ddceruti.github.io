@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /about/
+permalink: /impressum/
 title: Impressum – Legal Notice
 ---
 
