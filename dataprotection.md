@@ -1,3 +1,6 @@
+This website does not require the use of cookies. The responsible of this website does not collect any personal information other than when contacted via email. 
+
+This website is hosted by Github using Github Pages. The hoster of this website, Github Pages may collect, store and process usage, meta- and communication data. Github Global Privacy Policy: https://help.github.com/articles/global-privacy-practices/.
 
 ## Privacy Policy
 
