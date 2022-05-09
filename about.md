@@ -18,7 +18,7 @@ You can download my CV [here](https://ddceruti.github.io/images/CV_Amedeo_Ceruti
 
 ### Hobbies
 
-I enjoy playing water polo and reading in my free time. Also, I am always excited to find new local museums, libraries and bookshops!
+I enjoy playing water polo and reading in my free time. Also, I am always excited to visit local museums, libraries and bookshops!
 
 ### Contact me
 
