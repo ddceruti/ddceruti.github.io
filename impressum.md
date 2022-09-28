@@ -15,13 +15,13 @@ This blog thus solely expresses my private, personal opinions.
 (Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV)
 
 > Amedeo Paolo Ceruti<br>
-> Im Sträler 7<br>
-> 8047 Zürich<br>
-> SWITZERLAND
+> Trivastr. 28<br>
+> 80637 München<br>
+> GERMANY
 
 ## Contact:
 
-> E-Mail: aceruti@ethz.ch
+> E-Mail: amedeo.ceruti@tum.de
 
 # Disclaimer / Haftungsausschluss
 
