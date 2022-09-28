@@ -14,7 +14,7 @@ My main research interests are modeling and optimization of energy and process s
 
 ### CV
 
-You can download my CV [here](https://ddceruti.github.io/images/CV_Amedeo_Ceruti.pdf) or see an embedded version [here](https://ddceruti.github.io/cv/).
+You can download my CV [here](https://ddceruti.github.io/images/2022-09-28_CV.pdf) or see an embedded version [here](https://ddceruti.github.io/cv/).
 
 ### Hobbies
 
