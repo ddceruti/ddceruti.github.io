@@ -33,11 +33,9 @@ III. Information about the data processing
 The party responsible for this website (the "controller") for purposes of data protection law is:
 
 Amedeo Paolo Ceruti
-Im Sträler 7
-8047 Zürich
-Switzerland
+Trivastr. 28, Munich
 
-Email: aceruti@ethz.ch
+Email: amedeo.ceruti@tum.de
 
 ## II. The rights of users and data subjects
 
